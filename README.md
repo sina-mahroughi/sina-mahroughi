@@ -16,7 +16,7 @@ I currently work in a nonprogramming position and decided to change my career to
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--4m4nOeBq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qcrhginkjug2x8lusrth.png" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sina-mahroughi&icon=0&color=0)](https://visitcount.itsvg.in)
